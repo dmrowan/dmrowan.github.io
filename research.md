@@ -11,6 +11,17 @@ redirect_from:
 
 # Recent Projects
 
+## ASAS-SN Ellipsoidal Variables
+
+By studying black holes we stand to learn more about the underlying distributions of compact objects as well as late-stage evolution of massive stars. Stellar mass black holes are typically studied in interacting X-ray binary systems or during gravitational wave mergers. Interacting and merging systems, however, represent a narrow range of possible binary configurations. In order to better understand black holes, we should search for the largely unstudied population of non-interacting black holes.
+
+Non-interacting stellar mass black holes are typically searched for using radial velocity observations. If we can identify a star with large-amplitude periodic radial velocity variations, we can deduce the mass of the unseen companion. But we could also start the search by looking for ellipsoidal variable stars. Ellipsoidal variables are stars that have been tidally distorted by a companion such that they have a teardrop shape. By modeling ellipsoidal variable light curves we can place some estimates on the mass of the companion. We use ASAS-SN light curves to identify 369 candidates for ellipsoidal variability.
+
+By combining estimates of the photometric primaries mass and radii with the ASAS-SN light curves, we derive minimum companion masses for our ellipsoidal variable candidates. Despite the conservative nature of this estimation, our minimum companion mass offers a useful metric by which to sort ellipsoidal variables in the search for non-interacting compact objects. We are now conducting radial-velocity follow-up of our most promising black hole candidates. 
+
+[ADS Link](https://ui.adsabs.harvard.edu/abs/2021arXiv210502242R/abstract)
+
+
 ## NICER Millisecond Pulsars
 
 Neutron stars are the site of some of the most extreme physics in the universe. By observing millisecond pulsars (MSPs) -- neutron stars rotating hundreds of times per second -- we stand to learn more about high energy emission and degenerate matter. The Neutron Star Interior Composition Explorer (NICER), launched in 2017 and stationed on the International Space Station, observes the X-ray emission from these MSPs. In this work, we used two years of NICER data on three non-thermal millisecond pulsars. 
