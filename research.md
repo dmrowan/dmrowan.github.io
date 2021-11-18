@@ -9,6 +9,12 @@ redirect_from:
   - /download/
 ---
 
+# NSMA Project quick links
+
+[ADS Link](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F/abstract)
+[Drive Slides](https://docs.google.com/presentation/d/107Wp4xE6EbcftSIMSXBJ9o3qjUS6UUWgaCKJ_yYKzUw/edit?usp=sharing)
+
+
 # Recent Projects
 
 ## ASAS-SN Ellipsoidal Variables
