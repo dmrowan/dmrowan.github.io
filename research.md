@@ -9,13 +9,17 @@ redirect_from:
   - /download/
 ---
 
-# NSMA Project quick links
-
-[ADS Link](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F/abstract)
-[Drive Slides](https://docs.google.com/presentation/d/107Wp4xE6EbcftSIMSXBJ9o3qjUS6UUWgaCKJ_yYKzUw/edit?usp=sharing)
-
-
 # Recent Projects
+
+## ASAS-SN Eclipsing Binaries
+
+Eclipsing binaries are fundamental tools to determine the physical parameters of stars that are effectively in isolation. By modeling the eclipsing binary light curve and the radial velocities, the masses and radii of stars across the HR diagram can be determined. Almost every photometric survey has detected tens of thousands of eclipsing binaries, and ASAS-SN with more than 150,000 eclipsinng binaries classifications. Astronomers interested in smaller subsets of systems, such as extremely eccentric binaries or systems with red giant primaries, can search through these catalogs to identify targets for analysis. In this work we bridged the gap between these two steps by providing model fits for more than 30,000 detached eclipsing binaries using ASAS-SN light curves.
+
+We used PHOEBE, a versatile modeling tool capable of handling all types of binary systems, to optimize the ASAS-SN light curves. We visually inspected all targets to improve model fits and to identify systems that require more complex models. Once all of the binary parameters were determined, we explored the parameter distributions and used Gaia colors and magintudes to place the systems on the color-magnitude diagram. 
+
+All of the binaries are available online at [asas-sn.osu.edu/binaries](https://asas-sn.osu.edu/binaries). The interactive format allows users to search for systems with specific parameters. The individuial light curves and fits are available for each target, and the entire database can be downloaded for further analysis. 
+
+[ADS Link](https://ui.adsabs.harvard.edu/abs/2022arXiv220505687R/abstract)
 
 ## ASAS-SN Ellipsoidal Variables
 
