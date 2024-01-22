@@ -14,6 +14,7 @@ redirect_from:
 ## Searching for Non-Interacting Black Holes
 
 The majority of black hole masses are measured in unique binaries such as X-ray binaries are gravitational wave mergers. Such systems are inherently rare and represent only the tip of the iceberg for the Galactic black hole population. Black holes in binaries with luminous stars can be detected with photometric variability, radial velocity variability, or astrometric orbits. While there are numerous types of false-positives, we are learning how to better vet candidates as we use new search methods to look for this large but unstudied population of non-interacting compact object binaries.
+
 [ELL Search](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507..104R/abstract)
 [Gaia SB1s](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.5927J/abstract)
 [Massive white dwarfs](https://ui.adsabs.harvard.edu/abs/2023arXiv230711146R/abstract)
