@@ -11,6 +11,14 @@ redirect_from:
 
 # Recent Projects
 
+## Searching for Non-Interacting Black Holes
+
+The majority of black hole masses are measured in unique binaries such as X-ray binaries are gravitational wave mergers. Such systems are inherently rare and represent only the tip of the iceberg for the Galactic black hole population. Black holes in binaries with luminous stars can be detected with photometric variability, radial velocity variability, or astrometric orbits. While there are numerous types of false-positives, we are learning how to better vet candidates as we use new search methods to look for this large but unstudied population of non-interacting compact object binaries.
+[ELL Search](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507..104R/abstract)
+[Gaia SB1s](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.5927J/abstract)
+[Massive white dwarfs](https://ui.adsabs.harvard.edu/abs/2023arXiv230711146R/abstract)
+[Gaia Focused Product Release](https://ui.adsabs.harvard.edu/abs/2024arXiv240109531R/abstract)
+
 ## ASAS-SN Eclipsing Binaries
 
 Eclipsing binaries are fundamental tools to determine the physical parameters of stars that are effectively in isolation. By modeling the eclipsing binary light curve and the radial velocities, the masses and radii of stars across the HR diagram can be determined. Almost every photometric survey has detected tens of thousands of eclipsing binaries, and ASAS-SN with more than 150,000 eclipsing binaries classifications. Astronomers interested in smaller subsets of systems, such as extremely eccentric binaries or systems with red giant primaries, can search through these catalogs to identify targets for analysis. In this work we bridged the gap between these two steps by providing model fits for more than 30,000 detached eclipsing binaries using ASAS-SN light curves.
