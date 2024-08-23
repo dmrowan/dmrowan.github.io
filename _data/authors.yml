@@ -8,10 +8,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I am a fourth-year astronomy graduate student at the Ohio State University. My primary interests are compact objects and variable stars. I'm currently working with Kris Stanek on ASAS-SN variable stars. 
+    I am a fifth-year astronomy graduate student at the Ohio State University working with Kris Stanek, Chris Kochanek, and Todd Thompson. I am interested in many topics related to binary stars, compact objects, and large all-sky surveys. 
 
-    I graduated from Haverford College with a BS in physics and astronomy.  I worked with the NICER timing group to study millisecond pulsars in the X-ray regime. 
-    
 
   # This photo will be used in the about section
   picture:
