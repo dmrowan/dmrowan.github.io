@@ -3,12 +3,12 @@
 # Change `author1` to your shortname.
 author1:
   name:              Dominick Rowan
-  email:             rowan.90@osu.edu
+  email:             dmrowan@berkeley.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I am a fifth-year astronomy graduate student at the Ohio State University working with Kris Stanek, Chris Kochanek, and Todd Thompson. I am interested in many topics related to binary stars, compact objects, and large all-sky surveys. 
+    I am a NHFP Hubble Fellow at the University of California, Berkeley. I am interested in many topics related to binary stars, compact objects, and large all-sky surveys and am part of the [Moving Universe Lab](https://jluastro.atlassian.net/wiki/spaces/MULab/overview).
 
 
   # This photo will be used in the about section
